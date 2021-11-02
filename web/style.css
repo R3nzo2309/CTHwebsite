@@ -1,5 +1,5 @@
 body{
-    background-image: url(background-image.jpg);
+    background-color: white;
     background-repeat: no-repeat, repeat;
     background-size: cover;
 }
@@ -10,15 +10,9 @@ h1{
     margin: 5px;
     margin-bottom: 15px;
     padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     text-align: center;
-}
-
-p{
-    background-color: cyan;
-    border-radius: 25px;
-    border:darkcyan 5px solid;
-    margin: 5px;
-    padding-left: 15px;
 }
 
 .CTH{
@@ -27,6 +21,7 @@ p{
     border:darkcyan 5px solid;
     margin: 5px;
     padding-left: 15px;
+    width: 250px;
 }
 
 .CTH h3{
@@ -38,12 +33,21 @@ p{
     text-decoration-line: underline;
 }
 
+.CTH p{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+}
+
 .other{
     background-color:deepskyblue;
     border-radius: 25px;
     border:darkcyan 5px solid;
     margin: 5px;
     padding-left: 15px;
+    width: 250px;
 }
 
 .other h3{
@@ -53,4 +57,156 @@ p{
     margin: 5px;
     padding-left: 15px;
     text-decoration-line: underline;
+}
+
+.other p{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+}
+
+.BO{
+    background-color:deepskyblue;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    width: 250px;
+    position: absolute;
+    left: 595px;
+    top: 75px;
+}
+
+.BO h3{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    text-decoration-line: underline;
+}
+
+.BO p{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+}
+
+.PYT{
+    background-color:deepskyblue;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    width: 250px;
+    position: absolute;
+    left: 300px;
+    top: 75px;
+}
+
+.PYT h3{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    text-decoration-line: underline;
+}
+
+.PYT p{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+}
+
+.BWP{
+    background-color:deepskyblue;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    width: 250px;
+    position: absolute;
+    left: 300px;
+    top: 200px;
+}
+
+.BWP h3{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    text-decoration-line: underline;
+}
+
+.BWP p{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+}
+
+.AVO{
+    background-color:deepskyblue;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    width: 250px;
+    position: absolute;
+    left: 595px;
+    top: 200px;
+}
+
+.AVO h3{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    text-decoration-line: underline;
+}
+
+.AVO p{
+    background-color: cyan;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+}
+
+.tryCTH{
+    background-color:deepskyblue;
+    border-radius: 25px;
+    border:darkcyan 5px solid;
+    margin: 5px;
+    padding-left: 15px;
+    width: 250px;
+    position: absolute;
+}
+
+.info{
+    background-color: cornflowerblue;
+    margin: 5px;
+    padding-left: 15px;
+    border-radius: 25px;
+    position: absolute;
+    bottom: 15px;
+    width: 1500px;
+}
+
+.info h2{
+    text-align: center;
+}
+
+.info p{
+    text-align: center;
 }
